@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Knight</title>
+    <link>https://scottknight.co/</link>
+    <description>Recent content on Scott Knight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Scott Knight</copyright>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scottknight.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://scottknight.co/about/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottknight.co/about/</guid>
+      <description>Hi, I&amp;rsquo;m Scott.
+I&amp;rsquo;m currently a Software Engineer at Geocent, where we provide innovative software solutions as a federal contractor.
+I&amp;rsquo;m also the co-founder and CTO of a tech startup called Mintor, where we&amp;rsquo;re helping entrepreneurs meet the right people at the right time, and build their networks in a more effective way.
+I have a B.S. in Computer Science from Southeastern Louisiana University with a concentration in Information Technology.</description>
+    </item>
+    
+    <item>
+      <title>Time for an update</title>
+      <link>https://scottknight.co/posts/time-update/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottknight.co/posts/time-update/</guid>
+      <description>Earlier this week I participated as a panelist in a new event series called called Mintor Lounge, which was hosted by my startup Mintor in partnership with Startup Grind - Baton Rouge. The idea behind the event series is to foster a live, exclusive place for intimate conversation and connection among entrepreneurs in the Baton Rouge area.
+This inaugural Lounge event was titled &amp;ldquo;Fearless Self-Branding&amp;rdquo;, and took the form of a roundtable conversation among the panelists.</description>
+    </item>
+    
+  </channel>
+</rss>
