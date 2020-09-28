@@ -43,6 +43,7 @@ blockquote {
   color: #737373;
   margin: 0;
   padding-left: 1em;
+  font-style: italic;
 }
 
 a {

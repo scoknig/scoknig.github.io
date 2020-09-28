@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Scott Knight</title>
+    <link>https://scottknight.co/tags/life/</link>
+    <description>Recent content in life on Scott Knight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Scott Knight</copyright>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scottknight.co/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time for an update</title>
+      <link>https://scottknight.co/posts/time-update/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottknight.co/posts/time-update/</guid>
+      <description>Earlier this week I participated as a panelist in a new event series called called Mintor Lounge, which was hosted by my startup Mintor in partnership with Startup Grind - Baton Rouge. The idea behind the event series is to foster a live, exclusive place for intimate conversation and connection among entrepreneurs in the Baton Rouge area.
+This inaugural Lounge event was titled &amp;ldquo;Fearless Self-Branding&amp;rdquo;, and took the form of a roundtable conversation among the panelists.</description>
+    </item>
+    
+  </channel>
+</rss>

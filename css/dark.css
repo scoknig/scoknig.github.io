@@ -31,7 +31,9 @@ pre {
   padding: 1em;
 }
 blockquote {
-  border-color: blue;
+  border-color: lightgray;
+  color: lightgray;
+  font-style: italic;
 }
 
 h1,
